@@ -11,8 +11,8 @@ Please each task should be finished on time.
 | Day          | How      | The topic of discussion                    |
 | ---          | :-:      | ------------------------------------------ |
 |   Monday     |   zoom   |    Constraints, backlog and communication  |
-|   Tuseday    |   slack  |    Merging backlog files                   |
-|   wednesday  |   slack  |    development strategy and assign tasks   |
+|   Tuesday    |   slack  |    Merging backlog files                   |
+|   Wednesday  |   slack  |    development strategy and assign tasks   |
 |   Thursday   |   slack  |    review accomplishments                  |
 |   Friday     |   zoom   |    review final project and solve problems |
 
