@@ -11,8 +11,8 @@ Please each task should be finished on time.
 | Day          | How      | The topic of discussion                    |
 | ---          | :-:      | ------------------------------------------ |
 |   Monday     |   zoom   |    Constraints, backlog and communication  |
-|   Tuseday    |   slack  |    Merging backlog files                   |
-|   wednesday  |   slack  |    development strategy and assign tasks   |
+|   Tuesday    |   slack  |    Merging backlog files                   |
+|   Wednesday  |   slack  |    development strategy and assign tasks   |
 |   Thursday   |   slack  |    review accomplishments                  |
 |   Friday     |   zoom   |    review final project and solve problems |
 
@@ -20,7 +20,7 @@ Please each task should be finished on time.
 
 how often will we get in touch on each channel, and what we will discuss there:
 
-- **Slack Messaging**: each member sends a message every day to teel about his progress.
+- **Slack Messaging**: each member sends a message every day to tell about his progress.
 - **Slack Video Calls**: on Monday and Friday.
 - **Issues**: each time a member faced a problem.
 - **Pull Requests**:
