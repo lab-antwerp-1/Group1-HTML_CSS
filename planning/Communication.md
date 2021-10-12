@@ -31,19 +31,19 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 | Day       |  Omer   |  Darin  |  Nefn   | Mahmoud |
 | --------- | :-----: | :-----: | :-----: | :-----: |
-| Monday    | 08 - 11 | 13 - 20 | 13 - 20 | 13 - 20 |
-| Tuesday   | 19 - 24 | 13 - 20 | 13 - 20 | 13 - 20 |
-| Wednesday | 19 - 24 | 13 - 20 | 13 - 20 | 13 - 20 |
-| Thursday  | 08 - 11 | 13 - 20 | 13 - 20 | 13 - 20 |
-| Friday    | 09 - 24 | 13 - 20 | 13 - 20 | 13 - 20 |
-| Saturday  | 09 - 24 | 13 - 20 | 13 - 20 | 13 - 20 |
+| Monday    | 08 - 11 | 13 - 20 | 10 - 04 | 13 - 20 |
+| Tuesday   | 19 - 24 | 13 - 20 | 10 - 20 | 13 - 20 |
+| Wednesday | 19 - 24 | 13 - 20 | 10 - 12 | 13 - 20 |
+| Thursday  | 08 - 11 | 13 - 20 | 10 - 20 | 13 - 20 |
+| Friday    | 09 - 24 | 13 - 20 | 10 - 20 | 13 - 20 |
+| Saturday  | 09 - 24 | 13 - 20 | 10 - 20 | 13 - 20 |
 
 ### How many hours everyone has per day
 
 - Omer: _xh_; I am free on Fridays and Saturdays. I work late shifts on
 Mondays and Thursdays and normal shift on Tuesdays and Wednesdays.
 - Darin: _5h_;
-- name: _5h_;
+- Nefn: _5h_; im free but im busy on monday after 4 and wednsday after 12
 - name: _4h_;
 - name: _3h_;
 

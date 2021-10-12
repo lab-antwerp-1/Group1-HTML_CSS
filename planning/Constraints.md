@@ -10,14 +10,15 @@ Some boundaries around our project.
 
 - skill levels for each member:
   - Programming skills:
+
+    - Nefn: this is my first time
     - Omer: Yes
-    - Nefn:
     - Mahmoud:
     - Darin: Yes
 
 - amount of time available to work on the project (this week):
+      -  Nefn: sunday, monday, tuesday, thursday, friday 5 hours
       -  Omer: total 25 hours until Sunday
-      -  Nefn:
       -  Mahmoud:
       -  Darin: every day, 5 hours per day.
 
