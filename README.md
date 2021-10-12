@@ -1,7 +1,6 @@
-# (project name)
+# (Planning & Collaboration)
 
-<!-- describe your project -->
-
+this project is to do the Planning & Collaboration for building "all about trees" website.
 ## Getting Started
 
 <!-- a guide to using this repository -->
