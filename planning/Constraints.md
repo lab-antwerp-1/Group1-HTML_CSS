@@ -17,7 +17,7 @@ Some boundaries around our project.
 
 - amount of time available to work on the project (this week):
       -  Omar:
-      -  Nefn: sunday, monday, tuesday, thursday, friday 5 hours
+      -  Nefn: sunday, monday, tuesday, thursday, friday 5 hours 
       -  Mahmoud:
       -  Darin: every day, 5 hours per day.
 
