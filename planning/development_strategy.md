@@ -35,7 +35,7 @@ the user wants a navigation bar to navigate to (site introduction
 3- Paragraph:
 a paragraph on How trees work, the paragraph
 contains 4 links: first link will open a diagram, second link will open
-pdf file and the third link will open a video on youyube.
+pdf file and the third link will open a video on youtube.
 the paragraph contains an aside text.
 
   **Issues:**
