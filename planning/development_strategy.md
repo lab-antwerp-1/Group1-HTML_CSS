@@ -68,7 +68,7 @@ the third link will open linkedin).
     `1. HTML:`
    - One html file will be in branch `Footer-HTML`.
    - Use `p` to add a paragraph.
-   - Use `ul` tags to make the links.
+   - Use `href` tags to make the links.
 
     `2- CSS:`
    - One css file will be in branch `Footer-CSS`.
