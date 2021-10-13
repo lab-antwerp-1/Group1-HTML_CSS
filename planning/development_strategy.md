@@ -4,9 +4,9 @@ The website will be developed through the following issues:
 
 ***
 
-1- Tiltle:
+1- Title:
 the user wants to see a title.
-the user wants to see the tiltle between 2 trees.
+the user wants to see the title between 2 trees.
 
 **Issues:**
 
