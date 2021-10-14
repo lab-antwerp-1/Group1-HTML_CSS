@@ -17,10 +17,10 @@ Some boundaries around our project.
     - Darin: Yes
 
 - amount of time available to work on the project (this week):
-    -  Nefn: sunday, monday, tuesday, thursday, friday 5 hours.
-    -  Omer: total 25 hours until Sunday.
-    -  Mahmoud:
-    -  Darin: every day, 5 hours per day.
+  - Nefn: sunday, monday, tuesday, thursday, friday 5 hours.
+  - Omer: total 25 hours until Sunday.
+  - Mahmoud:
+  - Darin: every day, 5 hours per day.
 
 ## Internal: Voluntary
 
