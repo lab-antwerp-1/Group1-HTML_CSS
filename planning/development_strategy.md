@@ -10,11 +10,18 @@ the user wants to see the title between 2 trees.
 
 **Issues:**
 
-    `1. HTML:`
-   
-
+    `1- HTML:`
+   -[ ] this will be developed on branch `1-Title`.
+   -[ ] use `h1` to add a head.
+   -[ ]Use `p` to add a paragraph.
+   -[ ]Use `picture` to add 2 trees.
 
     `2- CSS:`
+    - [ ]One css file will be in branch `Title-CSS`.
+    - [ ]Use `color` as black.
+    - [ ] width for the picture te: `20%`
+    
+
 
 ***
 
