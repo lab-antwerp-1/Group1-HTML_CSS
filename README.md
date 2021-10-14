@@ -1,7 +1,9 @@
 # (Planning & Collaboration)
 
-this project is to do the Planning & Collaboration for building "all about trees" website.
+this project is to do the Planning & Collaboration for building
+"all about trees" website.
 Group Members:
+
 - [Darin](https://github.com/lab-antwerp-1/group1/blob/master/people/Darin-Hamouda.md)
 - [Nefn Lakhouj](https://github.com/lab-antwerp-1/group1-Introduction/blob/master/people/Nefn-Lakhouj.md)
 - [Mahmoud Abu Azoum](https://github.com/lab-antwerp-1/group1-Introduction/blob/master/people/Mahmoud.md)
