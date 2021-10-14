@@ -20,8 +20,6 @@ the user wants to see the title between 2 trees.
     - [ ]One css file will be in branch `Title-CSS`.
     - [ ]Use `color` as black.
     - [ ] width for the picture te: `20%`
-    
-
 
 ***
 
