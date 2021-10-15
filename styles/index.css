@@ -1,3 +1,28 @@
+/* ******* Styles for the paragraph ************* */
+.fascinating-words {
+  font-family: fantasy;
+}
+
+.interesting-things {
+  list-style-type: square;
+}
+
+/* https://developer.mozilla.org/en-US/docs/Web/HTML/Element/aside */
+.aside-info {
+  width: 40%;
+  padding-left: 0.5rem;
+  margin-left: 0.5rem;
+  float: right;
+  box-shadow: inset 5px 0 5px -5px #29627e;
+  font-style: italic;
+}
+
+.aside-text {
+  font-family: monospace;
+}
+
+/* ******* Styles for the paragraph ************* */
+
 
 /* ******* Styles for the Header************* */
 .centered-items {
