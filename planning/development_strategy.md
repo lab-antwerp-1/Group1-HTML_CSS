@@ -86,7 +86,6 @@ the third link will open linkedin).
     - One html file will be in branch `Footer-HTML`.
     - Use `footer` tag to wrap footer links.
     - Use `a` tags to make 3 links: twitter, github, linkedin.
-    Source: https://talmurshidi.github.io/ABT/
 
     `2- CSS:`
     - One css file will be in branch `Footer-CSS`.
@@ -97,5 +96,5 @@ the third link will open linkedin).
     - use `flex-direction` as row for footer tag.
     - use `align-content` as center for footer tag.
     - use `justify-content` as space-around for footer tag.
-    Source: https://talmurshidi.github.io/ABT/styles.css
+    
 ***
