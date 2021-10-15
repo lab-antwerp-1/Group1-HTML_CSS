@@ -67,7 +67,7 @@ the third link will open linkedin).
 
     `1. HTML:`
     - One html file will be in branch `Footer-HTML`.
-    - Use `p` to add a paragraph.
+    - Use `footer` tag to wrap footer links.
     - Use `a` tags to make 3 links: twitter, github, linkedin.
     Source: https://talmurshidi.github.io/ABT/
 
