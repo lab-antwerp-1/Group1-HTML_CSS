@@ -77,17 +77,3 @@
 }
 
 /* ******************** */
-
-
-.bottom-divider {
-  border-style: none none solid none;
-}
-
-.spaced-items {
-  display: flex;
-  flex-direction: row;
-  align-content: center;
-  justify-content: space-around;
-  padding-top: 2%;
-  padding-bottom: 2%;
-}
