@@ -33,6 +33,19 @@
   padding-bottom: 2%;
 }
 
+.spaced-items {
+  display: flex;
+  flex-direction: row;
+  align-content: center;
+  justify-content: space-around;
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
+
+.top-divider {
+  border-style: solid none none none;
+}
+
 @keyframes bounce {
   0%,
   20%,
